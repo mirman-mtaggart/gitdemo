@@ -1,3 +1,7 @@
 # Example file
 
-Edit this file to make your first Git commit!
+**This** is my first GitHub repo!
+
+## A new heading
+
+You can learn about me at [this site](https://mttaggart-resume.herokuapp.com)
